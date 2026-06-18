@@ -1,0 +1,10 @@
+# Fichiers système (macOS / Windows)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Dossiers/fichiers d'éditeurs
+.vscode/
+.idea
